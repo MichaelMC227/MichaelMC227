@@ -4,17 +4,8 @@
 - 😄 Pronome: Ele/Dele
 - 🏃🏻‍♂️‍➡️ Em busca de estágio
 
-  <div align="center">
-<a href="https://github-stats-extended.vercel.app/api?username=MichaelMC227">
-  <picture>
-    <source
-      srcset="https://github-stats-extended.vercel.app/api?username=MichaelMC227&theme=dark_github"
-      media="(prefers-color-scheme: dark)"
-    />
-    <img src="https://github-stats-extended.vercel.app/api?username=MichaelMC227&theme=light_github" />
-  </picture>
-</a>
-</div>
+  [![Michael GitHub stats](https://github-stats-extended.vercel.app/api/?username=MichaelMC227&show_icons=true&theme=calm&rank_icon=github&include_all_commits=true&custom_title=Michael+Stats&disable_animations=true&number_format=long&show=prs_merged_percentage,prs_reviewed)](https://github-stats-extended.vercel.app/api/?username=MichaelMC227&show_icons=true&theme=calm&rank_icon=github&include_all_commits=true&custom_title=Michael+Stats&disable_animations=true&number_format=long&show=prs_merged_percentage,prs_reviewed)
+
 
   <div style="display: inline_block"><br>
   <img align="center" alt="Michael-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
